@@ -8,6 +8,9 @@ This is data from the Global Terrorism Database. It has around 25,000 datapoints
 ### pop.RData
 Contains information about population in Iraq to be used as a covariate.
 
+### Spatial_All_Covariates.R
+This program fits a log-Gaussian Cox model (with population and distance-to-road covariates) to terrorism data from 2017.
+
 ### road.RData
 Contains information about the distance from each point in Iraq to the nearest primary road, also to be used as a covariate.
 
