@@ -3,8 +3,6 @@ Code and other files related to my honours research project - "Modelling Terrori
 
 Note that to run the code, INLA needs to first be installed. A high-performance computing system was used for some of the more complex models so be warned that the code may take a while to run!
 
-### Things you might want to see
-
 - 📒 **Final Report.pdf** - this is the final report for this project. It describes the mathematical concepts underlying log-Gaussian Cox processes and INLA, as well as giving the results of my analysis. 
 
 - 🗣 **Talk.mp4** - a 17-minute talk which summarises the entire project. This is a lot easier to parse than the full 50 page report!
