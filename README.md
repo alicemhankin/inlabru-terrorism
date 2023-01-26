@@ -1,8 +1,6 @@
 # inla-terrorism-project
 Code and other files related to my honours research project - "Modelling Terrorism Incidents in Iraq as a Log-Gaussian Cox Process". Here, I list the different files I have and what they are :)
 
-Note that to run the code, INLA needs to first be installed. A high-performance computing system was used for some of the more complex models so be warned that the code may take a while to run!
-
 - 📒 **Final Report.pdf** - this is the final report for this project. It describes the mathematical concepts underlying log-Gaussian Cox processes and INLA, as well as giving the results of my analysis. 
 
 - 🗣 **Talk.mp4** - a 17-minute talk which summarises the entire project. This is a lot easier to parse than the full 50 page report!
@@ -10,7 +8,7 @@ Note that to run the code, INLA needs to first be installed. A high-performance 
 - 👩‍🏫 **Slideshow.pdf** - the slideshow for the talk above.
 
 ### Code
-All other files are related to the code itself:
+In order to run the R code, note that INLA needs to first be installed. A high-performance computing system was used for some of the more complex models so be warned that it may take a while to run!
 
 - **data_iraq.xlsx** - this is data from the Global Terrorism Database. It has around 25,000 datapoints, each corresponding to a terrorist attack in Iraq. Data such as time, location and attack type is recorded. 
 
